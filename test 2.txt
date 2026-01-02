@@ -1,0 +1,41 @@
+What is alpha and beta testing?
+-it is performed by QA eng..
+-alpha testing is a internal testing
+-it is done by tester
+
+-beta is performed by real time user
+-beta testing is a external testing
+-it is done by user
+
+2) explain different types of servers in depth?
+- dev server
+its is used by deveploper
+QA
+its is performed by tester
+UAT
+its is used by user
+
+production
+it is used by user
+
+3) what are the types of non functional testing?
+-performance testing
+-security testing
+-useability 
+-compatibility
+-globalization
+-random /monkey
+
+4)explain performance testing and it's types?
+-it is a type of non-functional testing...testing the stability and response time of the application by applying load on it .
+know as performance testing
+
+
+5)which tools are used to perform performance testing?
+-JMeter and load runner mainly used to perform performance testing...
+
+6)what is jdk?
+-java development kit( it a kit to perform the testing operation)
+
+7)how to confirm jdk is successfully installed in your machine?
+-open window tab -the  enter window +R -then the run is popup-the run window enter cmd-after open the window write version -java enter then check
